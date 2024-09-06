@@ -11,7 +11,7 @@
     Programming languages
   </h2>
   <div style="display: flex">
-    <img style="width: 0.2rem;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+    <img style="width: 20px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   </div>
 </div>
 </div>
