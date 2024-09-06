@@ -9,17 +9,41 @@
   </div>
 <div>
   <h2>
-    Programming languages
+    - Programming languages
   </h2>
   <div style="display: flex">
-    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   </div>
   <div>
     <h2>
-      Contacts
+      - Libs
+    </h2>
+    <div>
+      <h3>
+        FrontEnd
+      </h3>
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+    </div>
+    <div>
+      <h3>
+        Backend
+      </h3>
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
+    </div>
+    <div>
+      <h3>
+        RPA
+      </h3>
+        <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+    </div>
+  </div>
+  <div>
+    <h2>
+      - Contacts
     </h2>
       <a href="https://www.linkedin.com/in/deivyson-silva-218b84297" target="blank">
         <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
