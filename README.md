@@ -3,7 +3,7 @@
     Hi, here's what you're looking for...
   </h1>
   <div style="width: 20%;">
-      <img src="">
+      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivyson1401&langs_count=8" alt="Top Langs" />
   </div>
 <div>
@@ -12,6 +12,9 @@
   </h2>
   <div style="display: flex">
     <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   </div>
 </div>
 </div>
