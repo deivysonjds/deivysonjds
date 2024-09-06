@@ -22,7 +22,7 @@
       Contacts
     </h2>
       <a href="https://www.linkedin.com/in/deivyson-silva-218b84297">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
+        <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
       </a>
   </div>
 </div>
