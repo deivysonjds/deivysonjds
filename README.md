@@ -17,5 +17,13 @@
     <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   </div>
+  <div>
+    <h2>
+      Contacts
+    </h2>
+      <a href="https://www.linkedin.com/in/deivyson-silva-218b84297">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
+      </a>
+  </div>
 </div>
 </div>
