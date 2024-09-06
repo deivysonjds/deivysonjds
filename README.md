@@ -12,10 +12,10 @@
     - Programming languages
   </h2>
   <div style="display: flex">
-    <img style="width: 60px; margin: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
-    <img style="width: 60px; margin: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
-    <img style="width: 60px; margin: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">  
-    <img style="width: 60px; margin: 10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">  
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">  
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">  
   </div>
   <div>
     <h2>
@@ -33,6 +33,7 @@
       </h3>
       <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">  
       <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
+      <img style="width: 60px;" src="https://www.google.com/search?sca_esv=b3b81d1d30ec7baa&sca_upv=1&rlz=1C1PRUC_enBR1000BR1000&sxsrf=ADLYWIKzR4_dt1f3X-QlwSi2K7VqYdE1Sg:1725595592543&q=jwt&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTrdWqiVbaH6EqK0Fq9hkAkqRDuhGs7UQnPtZiL0Bzcj78aaFR2vnR4DfQyahVzxKNZ-VoKcrAD9jNGPqmm8itYsMJ63gZJ3Jv7vncW47bra6m41W0olgyz_o1Llfv8ZXMt4nMs99xDUCwxjjkpV60H1-NE5oNu26DMHChVOYz41OnijEXQ&sa=X&ved=2ahUKEwjD-MbCuK2IAxUbpZUCHV_TImMQtKgLegQIFxAB#vhid=Usgaqd96FamDsM&vssid=mosaic">
     </div>
     <div>
       <h3>
