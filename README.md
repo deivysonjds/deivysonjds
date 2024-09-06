@@ -16,6 +16,7 @@
     <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
     <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">  
     <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">  
+    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg">  
   </div>
   <div>
     <h2>
