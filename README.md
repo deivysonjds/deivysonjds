@@ -12,10 +12,10 @@
     - Programming languages
   </h2>
   <div style="display: flex">
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+    <img style="width: 60px; margin-rigth: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+    <img style="width: 60px; margin-rigth: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img style="width: 60px; margin-rigth: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img style="width: 60px; margin-rigth: 10px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   </div>
   <div>
     <h2>
@@ -31,8 +31,8 @@
       <h3>
         Backend
       </h3>
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
+      <img style="width: 60px; margin-rigth: 10px" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+      <img style="width: 60px; margin-rigth: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
     </div>
     <div>
       <h3>
