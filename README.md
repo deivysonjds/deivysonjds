@@ -12,11 +12,21 @@
     - Programming languages
   </h2>
   <div style="display: flex">
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">  
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">  
-    <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg">  
+    <div style="width: 60px;">
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
+    </div>
+    <div style="width: 60px;">
+      <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    </div>
+    <div style="width: 70px;">
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">     
+    </div>
+    <div style="width: 70px;">
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">    
+    </div>
+    <div style="width: 70px;">
+      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg">      
+    </div>
   </div>
   <div>
     <h2>
@@ -26,32 +36,46 @@
       <h3>
         FrontEnd
       </h3>
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+      <div>
+        <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">  
+      </div>
     </div>
     <div>
       <h3>
         Backend
       </h3>
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">  
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg">
-      <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+      <div style="width: 80px;">
+        <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+      </div>
+      <div style="width: 80px;">
+        <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
+      </div>
+      <div style="width: 80px;">
+        <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg">
+      </div>
+      <div style="width: 80px;">
+        <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+      </div>
       <p>JWT - JSON Web Token</p>
     </div>
     <div>
       <h3>
         RPA
       </h3>
+      <div>
         <img style="width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+      </div>
     </div>
   </div>
   <div>
     <h2>
       - Contacts
     </h2>
-      <a href="https://www.linkedin.com/in/deivyson-silva-218b84297" target="blank">
-        <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
-      </a>
+      <div>
+        <a href="https://www.linkedin.com/in/deivyson-silva-218b84297" target="blank">
+          <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg">
+        </a>  
+      </div>
   </div>
 </div>
 </div>
