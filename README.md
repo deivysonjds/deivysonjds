@@ -7,7 +7,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivyson1401&langs_count=8" alt="Top Langs" />
       </a>
   </div>
-<div>
+<div style="display: flex;">
   <h2>
     - Programming languages
   </h2>
