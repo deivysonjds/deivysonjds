@@ -12,21 +12,11 @@
     - Programming languages
   </h2>
   <div style="display: flex">
-    <div style="width: 60px;">
       <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
-    </div>
-    <div style="width: 60px;">
       <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    </div>
-    <div style="width: 70px;">
       <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">     
-    </div>
-    <div style="width: 70px;">
       <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">    
-    </div>
-    <div style="width: 70px;">
       <img style="width: 60px;" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg">      
-    </div>
   </div>
   <div>
     <h2>
@@ -44,18 +34,10 @@
       <h3>
         Backend
       </h3>
-      <div style="width: 80px;">
         <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
-      </div>
-      <div style="width: 80px;">
         <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original-wordmark.svg">
-      </div>
-      <div style="width: 80px;">
         <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg">
-      </div>
-      <div style="width: 80px;">
         <img style="width: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-      </div>
       <p>JWT - JSON Web Token</p>
     </div>
     <div>
