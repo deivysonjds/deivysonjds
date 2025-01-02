@@ -4,7 +4,7 @@
   </h1>
   <div style="width: 20%;">
       <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivyson1401&langs_count=8" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivysonjds&langs_count=8" alt="Top Langs" />
       </a>
   </div>
 <div style="display: flex;">
