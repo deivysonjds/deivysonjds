@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
   <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
 </p>
