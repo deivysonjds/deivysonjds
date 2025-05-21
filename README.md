@@ -17,10 +17,12 @@
   </a>
 </p>
 
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
-<img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
+<p>
+  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
+  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
+</p>
 
-<br style="clear: both;"><br>
+<br></br>
 <h3 align="left">Linguagens:</h3>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
