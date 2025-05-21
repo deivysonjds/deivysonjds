@@ -23,6 +23,7 @@
 <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
 
 <br><br>
+<br><br>
 <h3 align="left">Linguagens:</h3>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
