@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/deivyson silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deivyson silva" height="30" width="40" /></a>
 </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
   <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer">
