@@ -16,6 +16,7 @@
     <a href="https://linkedin.com/in/deivyson silva" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deivyson silva" height="30" width="40" />
     </a>
 </p>
+</br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
