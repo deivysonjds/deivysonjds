@@ -18,8 +18,8 @@
     </a>
 </p>
 <h3>-</h3>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
+<img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
 
 <h3 align="left">Linguagens:</h3>
 
