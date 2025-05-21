@@ -12,7 +12,7 @@
 - 📄 Saiba mais sobre minhas experiências [https://www.canva.com/design/DAGcUy5qDBc/OP7zY_w6vXfZghV31sICfg/edit?utm_content=DAGcUy5qDBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGcUy5qDBc/OP7zY_w6vXfZghV31sICfg/edit?utm_content=DAGcUy5qDBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/deivyson silva" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deivyson silva" height="30" width="40" />
     </a>
 </p>
