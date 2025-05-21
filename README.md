@@ -16,10 +16,10 @@
     <a href="https://linkedin.com/in/deivyson silva" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deivyson silva" height="30" width="40" />
     </a>
 </p>
-<p></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" />
 <h3 align="left">Linguagens:</h3>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
