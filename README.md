@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 Atualmente estou aprendendo **Sistemas de Internet**  
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://deivyson-silva.vercel.app/](https://deivyson-silva.vercel.app/)  
+- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://deivyson-silva.vercel.app/)  
 - 📫 Como entrar em contato comigo **dev.deivyson@gmail.com**  
 - 📄 Saiba mais sobre minhas experiências [aqui](https://www.canva.com/design/DAGcUy5qDBc/OP7zY_w6vXfZghV31sICfg/edit?utm_content=DAGcUy5qDBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
@@ -18,8 +18,8 @@
 </p>
 <br></br>
 <p align="center">
-  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
-  <img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
+  <img width="48%" height="100px" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
+  <img width="48%" height="100px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
 </p>
 
 <br></br>
