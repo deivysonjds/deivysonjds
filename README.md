@@ -18,12 +18,10 @@
 </p>
 <br></br>
 <p align="center">
-  <img width="48%" height="100px" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
-  <img width="48%" height="100px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
+  <img width="48%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
+  <img width="48%" height="200px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
 </p>
 
-<br></br>
-<br></br>
 <br></br>
 <h3 align="left">Linguagens:</h3>
 
