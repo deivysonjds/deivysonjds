@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=deivysonjds&label=Profile%20views&color=0e75b6&style=flat" alt="deivysonjds" />
 </p>
 
-- 🌱 Atualmente estou aprendendo **Sistemas de Internet**  
+- 🌱 Atualmente estou estudando **Sistemas de Internet** pela universidade Católica de Pernambuco ( UNICAP )
 - 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://deivyson-silva.vercel.app/)  
 - 📫 Como entrar em contato comigo **dev.deivyson@gmail.com**  
 - 📄 Saiba mais sobre minhas experiências [aqui](https://www.canva.com/design/DAGcUy5qDBc/OP7zY_w6vXfZghV31sICfg/edit?utm_content=DAGcUy5qDBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
