@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou o Deivyson</h1>
-<h3 align="center">Um desenvolvedor fullstack e RPA apaixonado do Brasil</h3>
+<h1 align="center">Olá 👋, sou Deivyson</h1>
+<h3 align="center">Um desenvolvedor fullstack e RPA apaixonado por tecnologia e filosofia</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deivysonjds&label=Profile%20views&color=0e75b6&style=flat" alt="deivysonjds" />
