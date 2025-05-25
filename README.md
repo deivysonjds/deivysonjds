@@ -19,7 +19,7 @@
 <br></br>
 <p align="center">
   <img width="45%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=deivysonjds&show_icons=true&locale=en" alt="deivysonjds" />
-  <img width="45%" height="200px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
+  <img width="45%" height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deivysonjds&" alt="deivysonjds" /> 
 </p>
 
 <br></br>
