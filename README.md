@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, sou Deivyson</h1>
 <h3 align="center">Um desenvolvedor fullstack e RPA apaixonado por tecnologia e filosofia</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deivysonjds&label=Profile%20views&color=0e75b6&style=flat" alt="deivysonjds" />
-</p>
-
 - 🌱 Atualmente estou estudando **Sistemas para Internet** pela universidade Católica de Pernambuco ( UNICAP )
 - 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://deivyson-silva.vercel.app/)  
 - 📫 Como entrar em contato comigo **dev.deivyson@gmail.com**  
